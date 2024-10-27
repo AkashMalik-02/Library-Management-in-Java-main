@@ -26,7 +26,7 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-public final class DatabaseHandler {
+public final class DatabaseHandler {  
 
     private static DatabaseHandler handler = null;
 
