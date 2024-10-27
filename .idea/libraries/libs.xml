@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/fontbox-2.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/jfoenix-8.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/fontawesomefx-fontawesome-4.7.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/pdfbox-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/guava-21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/commons-csv-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/fontawesomefx-commons-8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/gson-2.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/boxable-1.5-RC.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/commons-codec-1.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Library-Management-in-Java-main/libs/derbyclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
